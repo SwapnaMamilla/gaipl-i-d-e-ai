@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Gen AI Integrated Platform support Environment(IPE)
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,18 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Challenge Overview:
+Currently Technology orgnization has a large platfrom support system which provides L1/2/3 support. Platform support requires trouble shooting, accessing variety of Knowledge base articles,running ansible automation scripts, foundational information about configuration items including thier relationships, dependencies, health, etc, etc. 
+
+Problem statement:
+All these tools require frequent context switching causing significant overhead in accesing different tools. Develop a Gen-AI enabled Integrated Platform Environment(IPE) that provides an integrated console to platform support teams with following capabilities:
+1. Provide agentic capabilities for incident resolution
+2. AI chatbot to contextually chat with a GPT backend on the incident/issue that they are resolving at the moment
+3. Contextual recommendations
+4. Ability to leverage enterprise information for troubleshooting
+5. Context based data extraction
+
+   Integrated Platform Environment should be the one-stop environment for all platform support users/teams for identifying, resolving and responding to all incidents.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
