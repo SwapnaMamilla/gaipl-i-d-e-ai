@@ -62,6 +62,14 @@ Briefly outline the technologies, frameworks, and tools used in development.
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
+- lack of correct Input data sets 
+- Merging data sets as each data set is not linked to other data sets
+- Time constraints
+- I tried with Langchain intitially but loading data into vector DB is not working(Lot of debugging needs to be done which took all the time)
+- Configuration on my personal system did not allow me to run the langflow code as pip install langflow ran for 6 hours and i have stopped as system is going out of memory
+- Clarity in requirements ex: console UI view
+
+
 
 ## 🏃 How to Run
 1. Clone the repository  
