@@ -35,13 +35,30 @@ All these tools require frequent context switching causing significant overhead 
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+I am part of Enteprise platforms and partner success team and connected with platform support use case. This use case has potential to change the support work and easy detection of resolutions.
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
+- Ui view of Integrated Platform Environemnt(IPE)
+- Utilize LLM's to provide the required capabilities like incident resolution, RCA, dependencies, health, etc.
+- End-to-end journey of an incident and how levergaing GenAI will simplify these capabilities
+- Scalable, explainable, efficient and seamless integration into existing applications
+
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
+1)Langflow under Langchain framework is used, which is a new, visual framework for building multi-agent and RAG applications. It is open-source, Python-powered, fully customizable, and LLM and vector store agnostic. Its intuitive interface allows for easy manipulation of AI building blocks, enabling developers to quickly prototype and turn their ideas into powerful, real-world solutions.Langflow empowers developers to rapidly prototype and build AI applications with its user-friendly interface and powerful features. 
+2) AI chatbot using Input chatbot and output chatbot components
+3) RAG Agents are used for implementing fucntionalities
+4) Used OpenAI API keys to use LLM model "gpt-40-mini"
+5) Used ASTRA DB and API keys to store vector embeddings into AstraDB
+6) Prompt component used for for structuring prompts and passing dynamic data to a language model.
+7) Textsplitter component to split input data into chunks
+8) Duckduckgo search component to get the information when no information is availble in input data.
+9) python code to run langflow in local 
+
+
+
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
