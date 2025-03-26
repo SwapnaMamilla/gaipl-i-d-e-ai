@@ -92,5 +92,5 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / ASRTA DB API / Langflow agents
 
 ## 👥 Team
-- Swapna Mamilla - github.com/SwapnaMamilla) | [LinkedIn](#)
+- Swapna Mamilla - [github.com/SwapnaMamilla)](https://github.com/SwapnaMamilla) | [LinkedIn](#)
 - Ramys Naga - [GitHub](#) | [LinkedIn](#)
